@@ -316,6 +316,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ab ★66](https://github.com/lwansbrough/react-native-ab) - A component for rendering A/B tests in React Native
 - [react-native-google-analytics ★121](https://github.com/lwansbrough/react-native-google-analytics) - Google Analytics for React Native!
 - [react-native-mixpanel ★45](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
+- [react-native-google-analytics-bridge ★72](https://github.com/idehub/react-native-google-analytics-bridge) - Google Analytics for React Native via native library
 
 ### Utils & Infra
 
@@ -417,7 +418,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-system-notification ★95](https://github.com/Neson/react-native-system-notification) - Notification for React Native
 - [react-native-touch-id ★144](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
 - [react-native-wifi-manager ★4](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
-
+- [react-native-billing ★29](https://github.com/idehub/react-native-billing) - In-app billing/purchase for Android (Google Play Store)
 
 ### Web
 
